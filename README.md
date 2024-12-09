@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zouhair010
 - 👀 I’m interested in coding and solving problems
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning new sttuf
 - 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me  https://www.linkedin.com/in/zouhair-ou-azza-492393319/
 - 😄 Pronouns: ...
